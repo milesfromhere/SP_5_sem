@@ -1,0 +1,18 @@
+regsvr32.exe "C:\Users\nikit\OneDrive\Рабочий стол\СП\lab_3\x64\Debug\SP02_COM.dll"
+
+
+
+{02FE8A5E-281B-4E3A-8F87-6C544DEDA994}
+.\x64\Debug\SP12_02.exe
+
+
+.\x64\Debug\SP12_04.exe
+
+
+
+
+ Отмена регистрации COM компонента
+
+
+regsvr32.exe /u "C:\Users\nikit\OneDrive\Рабочий стол\СП\lab_3\x64\Debug\SP02_COM.dll"
+
